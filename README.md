@@ -1,1 +1,2 @@
-### shivank98.github.io
+# pyjaipur.github.io
+Python Jaipur User Group Website
